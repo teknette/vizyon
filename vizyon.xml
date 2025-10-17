@@ -4,4 +4,6 @@
   <video type="kick" title="Kick Canlı Yayını" src="https://kick.com/trainwreckstv" />
   <video type="twitch" title="Twitch Yayını" src="https://www.twitch.tv/ninja" />
   <video type="m3u8" title="Canlı Kamera" src="https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8" />
+  <video type="youtube_channel" title="YouTube Canlı Yayın" src="https://www.youtube.com/channel/UCdlEXiVLTEvA280oyMvr8Kw" />
+  
 </videos>
