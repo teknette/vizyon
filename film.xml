@@ -28,4 +28,15 @@
     type="kick" 
     src="https://kick.com/Glarung" 
     poster="https://cdn.teknette.com/poster/uzaygunlukleri.jpg" />
+
+<video 
+    title="Gölgelerin Peşinde" 
+    desc="Bir gizli ajan, geçmişiyle yüzleşmek zorunda kalır." 
+    year="2024" 
+    imdb="7.9" 
+    genre="Aksiyon" 
+    type="youtube" 
+    src="https://www.youtube.com/watch?v=Ul0qEpswXj8" 
+    poster="https://cdn.teknette.com/poster/golgeleringiris.jpg" />
+  
 </vizyon>
