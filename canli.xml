@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kanallar>
+  <kanal 
+    title="Tivi6" 
+    src="https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8" 
+    genre="Film"
+    desc="Film ve dizi kanalı."
+    logo="https://cdn.site.com/logo/ntv.png"
+  />
+  <kanal 
+    title="Esfa TV"
+    src="https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/mono.m3u8"
+    genre="Müzik"
+    desc="En sevilen Türkçe müzik klipleri 7/24 canlı yayında."
+    logo="https://cdn.site.com/logo/powerturk.png"
+  />
+</kanallar>
