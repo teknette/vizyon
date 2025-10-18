@@ -1,0 +1,31 @@
+<vizyon>
+  <video 
+    title="Gölgelerin Peşinde" 
+    desc="Bir gizli ajan, geçmişiyle yüzleşmek zorunda kalır." 
+    year="2024" 
+    imdb="7.9" 
+    genre="Aksiyon" 
+    type="youtube" 
+    src="https://www.youtube.com/watch?v=abc123" 
+    poster="https://cdn.teknette.com/poster/golgeleringiris.jpg" />
+
+  <video 
+    title="Gece Şehri" 
+    desc="Karanlık sokaklarda bir dedektifin tehlikeli yolculuğu." 
+    year="2023" 
+    imdb="8.2" 
+    genre="Gerilim" 
+    type="m3u8" 
+    src="https://cdn.teknette.com/filmler/gece_sehri.m3u8" 
+    poster="https://cdn.teknette.com/poster/gece_sehri.jpg" />
+
+  <video 
+    title="Uzay Günlükleri" 
+    desc="Bir astronot, bilinmeyen bir gezegende hayatta kalma mücadelesi verir." 
+    year="2025" 
+    imdb="8.6" 
+    genre="Bilim Kurgu" 
+    type="kick" 
+    src="https://kick.com/uzaygunlukleri" 
+    poster="https://cdn.teknette.com/poster/uzaygunlukleri.jpg" />
+</vizyon>
