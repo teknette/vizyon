@@ -16,7 +16,7 @@
     imdb="8.2" 
     genre="Gerilim" 
     type="m3u8" 
-    src="https://cdn.teknette.com/filmler/gece_sehri.m3u8" 
+    src="https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8" 
     poster="https://cdn.teknette.com/poster/gece_sehri.jpg" />
 
   <video 
@@ -26,6 +26,6 @@
     imdb="8.6" 
     genre="Bilim Kurgu" 
     type="kick" 
-    src="https://kick.com/uzaygunlukleri" 
+    src="https://kick.com/Glarung" 
     poster="https://cdn.teknette.com/poster/uzaygunlukleri.jpg" />
 </vizyon>
