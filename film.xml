@@ -14,7 +14,7 @@
     desc="Karanlık sokaklarda bir dedektifin tehlikeli yolculuğu." 
     year="2023" 
     imdb="8.2" 
-    genre="Gerilim" 
+    genre="Komedi" 
     type="m3u8" 
     src="https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8" 
     poster="https://cdn.teknette.com/poster/gece_sehri.jpg" />
@@ -34,7 +34,7 @@
     desc="deneme amaçlı bea." 
     year="2024" 
     imdb="7.9" 
-    genre="Aksiyon" 
+    genre="Dram" 
     type="twitch" 
     src="https://www.twitch.tv/thunderpicktv" 
     poster="https://cdn.teknette.com/poster/golgeleringiris.jpg" />
